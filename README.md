@@ -1,7 +1,6 @@
 
 
 
-<img src="img/octocat-1664204898468.png" width="500" height="500" style="margin-left: 50px;">
 
  
 # Vanessa Leme Desenvolvedora Full Stack 
